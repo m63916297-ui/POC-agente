@@ -17,18 +17,15 @@ Este proyecto implementa un agente virtual inteligente diseñado para proporcion
 
 ## Estructura del Proyecto
 
-```
-.
-├── app.py                 # Aplicación principal y definición del agente
+├── app.py # Aplicación principal y definición del agente
 ├── cesancias_causadas.xlsx # Base de datos de cesantías
-├── models_llm.py          # Configuración de modelos de lenguaje
-├── prompt.py              # Definición de prompts del sistema
-├── vector_search.py       # Funcionalidad de búsqueda vectorial
-├── tools.py               # Herramientas del agente
-├── vector_db/             # Base de datos vectorial (índice FAISS y metadatos)
-├── .env                   # Variables de entorno (no incluido en el repositorio)
-└── requirements.txt       # Dependencias del proyecto
-```
+├── models_llm.py # Configuración de modelos de lenguaje
+├── prompt.py # Definición de prompts del sistema
+├── vector_search.py # Funcionalidad de búsqueda vectorial
+├── tools.py # Herramientas del agente
+├── vector_db/ # Base de datos vectorial (índice FAISS y metadatos)
+├── .env # Variables de entorno (no incluido en el repositorio)
+└── requirements.txt # Dependencias del proyecto
 
 ## Configuración
 
