@@ -1,0 +1,10 @@
+langchain_core
+langgraph
+typing_extensions
+langchain_openai
+python-dotenv
+faiss-cpu
+numpy
+pandas
+openai
+groq
